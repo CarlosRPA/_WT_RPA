@@ -1,1 +1,1 @@
-Versao cliente Farmacia 
+By RPA
